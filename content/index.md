@@ -1,7 +1,7 @@
 ---
-title: Home
+title: Home Sara
 ---
 
-# The Butler
+# Le storie di Sara - The Butler - PERA
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> sottotitolo PERA - A ready to use static blog, powered by [Cecil](https://cecil.app).
